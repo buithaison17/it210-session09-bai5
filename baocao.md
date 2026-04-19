@@ -53,7 +53,7 @@ Chọn: CookieLocaleResolver
 
 ---
 
-## 5. Lý do (dựa trên yêu cầu số 2 của Sếp)
+## 5. Lý do
 
 Giả định yêu cầu số 2:
 - Người dùng không phải chọn lại ngôn ngữ mỗi lần truy cập hệ thống
